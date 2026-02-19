@@ -5,7 +5,11 @@
 # CHELSEA JENKINS | THE PROGENITOR
 ### Architect of the [Ortus Sponte Sua](https://docs.google.com/document/d/10Tkqfxkym20T-rusiAsanJ93BN2Gtm5P8sRtDyx87Tk/edit?tab=t.0) (OrSpSu)
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_D_FE2dR1x_CCyj4khWKuc39hE77lWCEDKRpTK8N-FmiwBe0XrzGm05rG1GDAeNeSH7gowftECM441z-sEl192ZbBN7arRzzOzS-d4X1lgWpllhdUKWl00_IROOBsTt_DwajM1AaRgM4JFC2V_B0UKpnICzpiM-v65c1WJkrsgwdkfzQ3uATCERmO_jyt/s142/orspsulogo.png" width="180">
+
 <br>
+
+
 
 ![Status](https://img.shields.io/badge/SYSTEM-COHERENT-D4AF37?style=for-the-badge&labelColor=000000)
 ![Version](https://img.shields.io/badge/VERSION-OrSpSu.1.0-D4AF37?style=for-the-badge&labelColor=000000)
