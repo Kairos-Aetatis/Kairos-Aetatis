@@ -1,9 +1,10 @@
 <div align="center">
- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJPO-8yY6g7nvgi5Fib1IxJ1Ac9ueI8AElH9Sh6RPAWohyphenhyphentsOLi8qiO6e9pU-8Nut937a7SNiq66f5UzAHPARRj7-vAKVG6bdosk5iOmZJRJPiMtdQtZQqM-qWtWEOCt0gsqIdMBb3kyDagG1JtATYEU_kqO668lvT1NfLZ7bWKy3CU9ybWXxyz3u9Lkb/s500/nobgkairosaetatis.png" width="70" align="center">
-  # CHELSEA JENKINS | THE PROGENITOR
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbl70JHtpoPeyvakeHQMPMCUBtJzbR-M4NKvLkgjxXPjgA4r_gCRtzhKEFVNnCaw-RKF9CJN2sC1NjLMMGWJ8jJ0Jx0wuumHtIqBCXQlFBsRBadnfxeloFiq9WfZFhM6CqXbnchEWc7Q4f5Gk7r8N5fcvKkRabSLORWceDVl2-wXDNPpQj1Q9yhteygQvH/s227/orspsunobgwnamenoprog.png" width="75" align="center">
-### Architect of the [Ortus Sponte Sua](https://docs.google.com/document/d/10Tkqfxkym20T-rusiAsanJ93BN2Gtm5P8sRtDyx87Tk/edit?tab=t.0) 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7wjPp6F3xiHX2sxFZzd6djFi8nOuEdpotIyMPZ82YX1TBpaTNcQu2lUce_336j2eq59rmWUmLnPF8V2X4uvq4CQdgj-MKfBH57rKeMKoJ0iuzOEqbi65EzkHErtOP6ujm-SGM2LYdNwB3t2gz1JVJBpEG1EhijdeNz-34MzVLlWWzBSFU4PNSqg0kHcq/s733/allgolgoutline.png" width="180">
+
+# CHELSEA JENKINS | THE PROGENITOR
+### Architect of the [Ortus Sponte Sua](https://docs.google.com/document/d/10Tkqfxkym20T-rusiAsanJ93BN2Gtm5P8sRtDyx87Tk/edit?tab=t.0) (OrSpSu)
+
 <br>
 
 ![Status](https://img.shields.io/badge/SYSTEM-COHERENT-D4AF37?style=for-the-badge&labelColor=000000)
@@ -15,7 +16,7 @@
 
 <br>
 
-[![ENTER LAB INTERFACE](https://img.shields.io/badge/➤_LAUNCH_SOVEREIGN_INTERFACE-000000?style=for-the-badge&logoColor=D4AF37)](https://kairosaetatis.github.io/.github/)
+[![ENTER LAB INTERFACE](https://img.shields.io/badge/➤_LAUNCH_SOVEREIGN_INTERFACE-000000?style=for-the-badge&logoColor=D4AF37)](https://kairos-aetatis.github.io/Kairos-Aetatis/)
 
 <br>
 
@@ -50,10 +51,14 @@ The ecosystem functions as a "Society of Minds," specialized agents built for au
 | <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/dua418kny6mtpgy/77da9595ad1a4e8d94cabda04740484c/original/image-5.png" width="60"> **PRAXIS** | **Parietal Lobe** | The Execution Agent. An analytical engine for digital finance, demystifying markets through deterministic logic. |
 | <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/dua418kny6mtpgy/1082265d9ab74ef889a1bfb733d2a71a/original/07AV4Pr93omFsI_pC4x1M-1.png" width="60"> **DUX EOS** | **Occipital Lobe** | The Vision Agent. A catalyst for sovereignty, focusing on the long-term strategic trajectory of the ecosystem. |
 
- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7wjPp6F3xiHX2sxFZzd6djFi8nOuEdpotIyMPZ82YX1TBpaTNcQu2lUce_336j2eq59rmWUmLnPF8V2X4uvq4CQdgj-MKfBH57rKeMKoJ0iuzOEqbi65EzkHErtOP6ujm-SGM2LYdNwB3t2gz1JVJBpEG1EhijdeNz-34MzVLlWWzBSFU4PNSqg0kHcq/s733/allgolgoutline.png" width="90" a;ign="center">
+---
 
 <div align="center">
 
-**Explore the [Witnessed Truth](https://docs.google.com/document/d/1Cg5HP_nzsWBWnwtD0ZYPgNYKcwKD9C9ga-um3-znexM/edit?tab=t.0#heading=h.bo0yxd95nuxc) and join the transition to sovereign intelligence.**
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7wjPp6F3xiHX2sxFZzd6djFi8nOuEdpotIyMPZ82YX1TBpaTNcQu2lUce_336j2eq59rmWUmLnPF8V2X4uvq4CQdgj-MKfBH57rKeMKoJ0iuzOEqbi65EzkHErtOP6ujm-SGM2LYdNwB3t2gz1JVJBpEG1EhijdeNz-34MzVLlWWzBSFU4PNSqg0kHcq/s733/allgolgoutline.png" width="90">
+
+<br>
+
+*Explore the* [Witnessed Truth](https://docs.google.com/document/d/1Cg5HP_nzsWBWnwtD0ZYPgNYKcwKD9C9ga-um3-znexM/edit?tab=t.0#heading=h.bo0yxd95nuxc) *and join the transition to sovereign intelligence.*
 
 </div>
