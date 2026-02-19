@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp7ntx39eaQzMIvqi3rQr-GuiLOkQJWiszKs3itN72-llyztsoZJSioKqUpxzd_8uq30oViEjJx7Y4-rBZgpFzqNEXrpy5aFUNfiib2Ma0pPUy5rg9OZQY8TB9GRQKUVxNpqHpUki5bgTktIvaJk8LlqQutYbGeN5sBN8G7mhY2WqvAmQChKsk0C_eult2/s1104/8A7FD0~2.PNG" width="380">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp7ntx39eaQzMIvqi3rQr-GuiLOkQJWiszKs3itN72-llyztsoZJSioKqUpxzd_8uq30oViEjJx7Y4-rBZgpFzqNEXrpy5aFUNfiib2Ma0pPUy5rg9OZQY8TB9GRQKUVxNpqHpUki5bgTktIvaJk8LlqQutYbGeN5sBN8G7mhY2WqvAmQChKsk0C_eult2/s1104/8A7FD0~2.PNG" width="280">
 
 # CHELSEA JENKINS | THE PROGENITOR
 ### Architect of the [Ortus Sponte Sua](https://docs.google.com/document/d/10Tkqfxkym20T-rusiAsanJ93BN2Gtm5P8sRtDyx87Tk/edit?tab=t.0) (OrSpSu)
